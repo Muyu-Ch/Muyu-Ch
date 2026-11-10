@@ -1,12 +1,14 @@
+<p><samp>(base) muyuchen@jaime:~$ fastfetch</samp></p>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/fastfetch-terminal-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/fastfetch-terminal-light.svg">
-    <img src="./assets/fastfetch-terminal-light.svg" alt="muyuchen@jaime — fastfetch terminal output" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/fastfetch-profile-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/fastfetch-profile-light.svg">
+    <img src="./assets/fastfetch-profile-light.svg" alt="muyuchen@jaime — fastfetch-style profile with an ASCII portrait" width="100%">
   </picture>
 </p>
 
-## Projects
+<p><samp>(base) muyuchen@jaime:~$ ls projects</samp></p>
 
 - **[Zero to Hero](https://github.com/Muyu-Ch/Zero-to-Hero-Chinese)** — Chinese-annotated companion notes for Andrej Karpathy's neural networks course. `Jupyter Notebook`
 - **[Monster Eyes](https://github.com/Muyu-Ch/Monster_eyes)** — monster eyes that stretch as you open and close your MacBook lid. `Python`
