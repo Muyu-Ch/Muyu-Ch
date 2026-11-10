@@ -1,4 +1,4 @@
-<p align="center"><samp>muyuchen@whu:~$ fastfetch</samp></p>
+## <samp>muyuchen@whu:~$ fastfetch</samp>
 
 <p align="center">
   <picture>
