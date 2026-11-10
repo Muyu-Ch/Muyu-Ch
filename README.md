@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/fastfetch.svg" alt="muyuchen@whu — fastfetch-style profile card with an ASCII portrait" width="100%" />
+  <img src="./assets/profile-card.svg" alt="muyuchen@whu — fastfetch-style profile card with an ASCII portrait" width="100%" />
 </p>
 
 ## <samp>muyuchen@whu:~$ ls projects</samp>
