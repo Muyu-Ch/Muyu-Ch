@@ -1,12 +1,38 @@
 <p><samp>(base) muyuchen@jaime:~$ fastfetch</samp></p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/fastfetch-profile-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/fastfetch-profile-light.svg">
-    <img src="./assets/fastfetch-profile-light.svg" alt="muyuchen@jaime — fastfetch-style profile with an ASCII portrait" width="100%">
-  </picture>
-</p>
+```text
+                                              #:                 muyuchen@jaime
+                .#%             .             @:                 --------------
+               =@@-        -*.-%%         .   %:                 OS: macOS
+            ###@#    :#++%%@@#@%+#+-+%%@%=#+  %+====             Host: Wuhan University
+           *@@@#  :=+%@@@%#@@*%=-@+##@@@= =%+#@*:.*@             Major: Computer Science
+          -@%@@**@%+-*@#--%@#=%@@*.#@%@%@#@%#%@%#@*=%:           Shell: zsh
+       .=#@@@@@@@+-+%@@##@@@@@@%@@@@%@@@@@@@@%%@#.  #=           IDE: VS Code · Xcode
+     .**%@@@@@@%**@@@@#@@@@@%##@@#+##- -%@@@@%@@#  :@.           Languages: Python · C++ · C · Swift
+    =#:-@@@@@@@%@@@@@@@@@@@#%%@%%-*- :+*%@@@@%@#@==#.            Focus: LLMs · Graphics · iOS
+   #* -@@@@@@@@@@@@@%@@@%+%#+@* #@*=*+:%@#%*@#%@@@=              Research: LLM Efficiency
+  +* #@@@@@@@@%=#%#@%%@#   *@#  =%..   +. +##@@@@@.              Uptime: 2 years on GitHub
+  %+#@%@@@@@@% +@+#@*-@:    -+*:-@         *%*@@@@+              Repos: 10 public
+  :#@%@@@@*:+#*@@@%-  -       .=++          -#@*%#%              Location: Wuhan, China
+   *@@@@%-  :@+*%-                            =*%=@.             GitHub: github.com/Muyu-Ch
+  -@@@@+    *@*=                                @=:  .:          Email: muyuchen13@gmail.com
+ =@@@%.    +@=      ..                -+++*%%-  %=-+++-          Theme: Tokyo Night
+*@@%@-     .    -+*@*=++++=-:      .+*-.  ==:@#+%#:
+-.= %:        :#=  -      .:-+#-   %=        .**:%
+ .  %-       .@:             .%%===%#=-=:    :%: @:
+ *++%#=+++++++@:              @-    +%=:..:-+*:  #+
+    -%        :#=            %=       -====:     =#
+     **         -*+==--::::-#-                   -%
+      #*            .::-----                     *+
+       +#:                                     -@#*.
+        .#+                                  .+%*-
+          -#+.                           .-+++:             .
+            :**-=*============+++++**==+++-             .-+*:
+              .-  :.........      .++-##.             -*+-
+                                       :#+         :+*=
+                                         #*     .=*+:
+                                          +#. :**-
+```
 
 <p><samp>(base) muyuchen@jaime:~$ ls projects</samp></p>
 
