@@ -1,40 +1,40 @@
-<p><sub><samp>(base)&nbsp;muyuchen@jaime:~$&nbsp;fastfetch</samp></sub></p>
+<p><samp>(base) muyuchen@jaime:~$ fastfetch</samp></p>
 
-<p><sub><samp>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;muyuchen@jaime<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.#%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--------------<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=@@-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-*.-%%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;%:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OS:&nbsp;macOS<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;###@#&nbsp;&nbsp;&nbsp;&nbsp;:#++%%@@#@%+#+-+%%@%=#+&nbsp;&nbsp;%+====&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Host:&nbsp;Wuhan&nbsp;University<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*@@@#&nbsp;&nbsp;:=+%@@@%#@@*%=-@+##@@@=&nbsp;=%+#@*:.*@&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major:&nbsp;Computer&nbsp;Science<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-@%@@**@%+-*@#--%@#=%@@*.#@%@%@#@%#%@%#@*=%:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shell:&nbsp;zsh<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.=#@@@@@@@+-+%@@##@@@@@@%@@@@%@@@@@@@@%%@#.&nbsp;&nbsp;#=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IDE:&nbsp;VS&nbsp;Code&nbsp;·&nbsp;Xcode<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.**%@@@@@@%**@@@@#@@@@@%##@@#+##-&nbsp;-%@@@@%@@#&nbsp;&nbsp;:@.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages:&nbsp;Python&nbsp;·&nbsp;C++&nbsp;·&nbsp;C&nbsp;·&nbsp;Swift<br>
-&nbsp;&nbsp;&nbsp;&nbsp;=#:-@@@@@@@%@@@@@@@@@@@#%%@%%-*-&nbsp;:+*%@@@@%@#@==#.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Focus:&nbsp;LLMs&nbsp;·&nbsp;Graphics&nbsp;·&nbsp;iOS<br>
-&nbsp;&nbsp;&nbsp;#*&nbsp;-@@@@@@@@@@@@@%@@@%+%#+@*&nbsp;#@*=*+:%@#%*@#%@@@=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research:&nbsp;LLM&nbsp;Efficiency<br>
-&nbsp;&nbsp;+*&nbsp;#@@@@@@@@%=#%#@%%@#&nbsp;&nbsp;&nbsp;*@#&nbsp;&nbsp;=%..&nbsp;&nbsp;&nbsp;+.&nbsp;+##@@@@@.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uptime:&nbsp;2&nbsp;years&nbsp;on&nbsp;GitHub<br>
-&nbsp;&nbsp;%+#@%@@@@@@%&nbsp;+@+#@*-@:&nbsp;&nbsp;&nbsp;&nbsp;-+*:-@&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*%*@@@@+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Repos:&nbsp;10&nbsp;public<br>
-&nbsp;&nbsp;:#@%@@@@*:+#*@@@%-&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.=++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-#@*%#%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location:&nbsp;Wuhan,&nbsp;China<br>
-&nbsp;&nbsp;&nbsp;*@@@@%-&nbsp;&nbsp;:@+*%-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=*%=@.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub:&nbsp;github.com/Muyu-Ch<br>
-&nbsp;&nbsp;-@@@@+&nbsp;&nbsp;&nbsp;&nbsp;*@*=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@=:&nbsp;&nbsp;.:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email:&nbsp;muyuchen13@gmail.com<br>
-&nbsp;=@@@%.&nbsp;&nbsp;&nbsp;&nbsp;+@=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-+++*%%-&nbsp;&nbsp;%=-+++-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theme:&nbsp;Tokyo&nbsp;Night<br>
-*@@%@-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;-+*@*=++++=-:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.+*-.&nbsp;&nbsp;==:@#+%#:<br>
--.=&nbsp;%:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:#=&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.:-+#-&nbsp;&nbsp;&nbsp;%=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.**:%<br>
-&nbsp;.&nbsp;&nbsp;%-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.@:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.%%===%#=-=:&nbsp;&nbsp;&nbsp;&nbsp;:%:&nbsp;@:<br>
-&nbsp;*++%#=+++++++@:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@-&nbsp;&nbsp;&nbsp;&nbsp;+%=:..:-+*:&nbsp;&nbsp;#+<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:#=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-====:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=#<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-*+==--::::-#-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-%<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.::-----&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+#:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-@#*.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.#+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.+%*-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-#+.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.-+++:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:**-=*============+++++**==+++-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.-+*:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.-&nbsp;&nbsp;:.........&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.++-##.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-*+-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:#+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:+*=<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.=*+:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+#.&nbsp;:**-
-</samp></sub></p>
+```text
+                                              #:                 muyuchen@jaime
+                .#%             .             @:                 --------------
+               =@@-        -*.-%%         .   %:                 OS: macOS
+            ###@#    :#++%%@@#@%+#+-+%%@%=#+  %+====             Host: Wuhan University
+           *@@@#  :=+%@@@%#@@*%=-@+##@@@= =%+#@*:.*@             Major: Computer Science
+          -@%@@**@%+-*@#--%@#=%@@*.#@%@%@#@%#%@%#@*=%:           Shell: zsh
+       .=#@@@@@@@+-+%@@##@@@@@@%@@@@%@@@@@@@@%%@#.  #=           IDE: VS Code · Xcode
+     .**%@@@@@@%**@@@@#@@@@@%##@@#+##- -%@@@@%@@#  :@.           Languages: Python · C++ · C · Swift
+    =#:-@@@@@@@%@@@@@@@@@@@#%%@%%-*- :+*%@@@@%@#@==#.            Focus: LLMs · Graphics · iOS
+   #* -@@@@@@@@@@@@@%@@@%+%#+@* #@*=*+:%@#%*@#%@@@=              Research: LLM Efficiency
+  +* #@@@@@@@@%=#%#@%%@#   *@#  =%..   +. +##@@@@@.              Uptime: 2 years on GitHub
+  %+#@%@@@@@@% +@+#@*-@:    -+*:-@         *%*@@@@+              Repos: 10 public
+  :#@%@@@@*:+#*@@@%-  -       .=++          -#@*%#%              Location: Wuhan, China
+   *@@@@%-  :@+*%-                            =*%=@.             GitHub: github.com/Muyu-Ch
+  -@@@@+    *@*=                                @=:  .:          Email: muyuchen13@gmail.com
+ =@@@%.    +@=      ..                -+++*%%-  %=-+++-          Theme: Tokyo Night
+*@@%@-     .    -+*@*=++++=-:      .+*-.  ==:@#+%#:
+-.= %:        :#=  -      .:-+#-   %=        .**:%
+ .  %-       .@:             .%%===%#=-=:    :%: @:
+ *++%#=+++++++@:              @-    +%=:..:-+*:  #+
+    -%        :#=            %=       -====:     =#
+     **         -*+==--::::-#-                   -%
+      #*            .::-----                     *+
+       +#:                                     -@#*.
+        .#+                                  .+%*-
+          -#+.                           .-+++:             .
+            :**-=*============+++++**==+++-             .-+*:
+              .-  :.........      .++-##.             -*+-
+                                       :#+         :+*=
+                                         #*     .=*+:
+                                          +#. :**-
+```
 
-<p><sub><samp>(base)&nbsp;muyuchen@jaime:~$&nbsp;ls&nbsp;projects</samp></sub></p>
+<p><samp>(base) muyuchen@jaime:~$ ls projects</samp></p>
 
 - **[Zero to Hero](https://github.com/Muyu-Ch/Zero-to-Hero-Chinese)** — Chinese-annotated companion notes for Andrej Karpathy's neural networks course. `Jupyter Notebook`
 - **[Monster Eyes](https://github.com/Muyu-Ch/Monster_eyes)** — monster eyes that stretch as you open and close your MacBook lid. `Python`
